@@ -112,7 +112,16 @@ footer {
     background-color: rgba(154, 59, 192, 0.178);
     border-radius: 19px;
     padding: 8px;
+    transition: all 0.4s;
     
+
+}
+
+.logoZapp:hover {
+     background-color: rgba(154, 59, 192, 0.178);
+    border-radius: 19px;
+    padding: 8px;
+    transition: all 0.4s;
 
 }
 
