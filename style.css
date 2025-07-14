@@ -11,7 +11,7 @@
 
 body {
     background-color: rgb(238, 227, 227);
-    background: url(assets/escuro.jpg) no-repeat top center/cover;
+    background: url(assets/azulado.jpg) no-repeat top center/cover;
     padding: 8px;
 }
 
@@ -111,28 +111,44 @@ footer {
     gap: 1rem;
     justify-content: center;
     align-items: center;
+    
 }
     .redesSociais {
         display: flex;
-        gap: 25px;
+        gap: 45px;
+        font-size: 22px;
         
     }
-.logoInst:hover {
+
+    
+
+
+.logoInst:hover, .logoZapp:hover {
     background-color: rgba(154, 59, 192, 0.178);
     border-radius: 19px;
     padding: 8px;
     transition: all 0.4s;
     
+    
+    
 
 }
 
-.logoZapp:hover {
-     background-color: rgba(154, 59, 192, 0.178);
-    border-radius: 19px;
-    padding: 8px;
-    transition: all 0.4s;
+footer .desenvolvedor {
+  padding: 24px 0;
+  font-size: 14px;
+    }
 
-}
+    footer .desenvolvedor a {
+        text-decoration: none;
+    }
+
+    footer .desenvolvedor a:hover {
+        color: brown;
+    }
+
+
+ 
 
 
 
