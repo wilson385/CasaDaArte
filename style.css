@@ -6,16 +6,18 @@
     margin: 0px;
     font-family: "Lora", serif;
     box-sizing: border-box;
+    color: aliceblue;
 }
 
 body {
     background-color: rgb(238, 227, 227);
+    background: url(assets/escuro.jpg) no-repeat top center/cover;
 }
 
 .container {
     width: 100%;
     max-width: 630px;
-    margin: 37px auto 0px;
+    margin: 112px auto 0px;
     height: auto;
     /* impede que o conteudo saia do container */
     overflow: hidden;
@@ -71,11 +73,13 @@ ul {
 }
 
 .aluno1 {
-    width: 112px;
+    width: 130px;
+    border-radius: 8px;
 }
 
 .aluno2 {
-    width: 112px;
+    width: 130px;
+    border-radius: 8px;
 }
 
 .localidade {
