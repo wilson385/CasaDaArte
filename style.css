@@ -145,8 +145,13 @@ footer .desenvolvedor {
     footer .desenvolvedor a:hover {
         color: brown;
     }
+    /* celuares */
+    @media (max-width: 474px) {
+        .rua {
+            text-align: center;
+        }
 
-
+    }
  
 
 
