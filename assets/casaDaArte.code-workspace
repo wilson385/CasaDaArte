@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../AssembleiaDeDeus"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "casaDaArte"
+	}
+}
