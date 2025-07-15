@@ -1,0 +1,3 @@
+function audiovizual () {
+    alert("O curso de Audiovisual ensina a criar, gravar e editar vídeos e sons com qualidade profissional. Os alunos aprendem técnicas de filmagem, captação de áudio, iluminação, roteirização e edição, desenvolvendo projetos como curtas-metragens, clipes, vídeos para redes sociais e muito mais. Ideal para quem deseja trabalhar com cinema, TV, YouTube ou produção de conteúdo digital.")
+}
