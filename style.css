@@ -61,7 +61,10 @@ ul {
     gap: 20px;
     /* elimina o pontinho do li */
     list-style-type: none;
+    cursor: pointer;
+    
 }
+
 
 ul li:hover {
     background-color: rgba(154, 59, 192, 0.178);
