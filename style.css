@@ -12,7 +12,6 @@
 body {
     background-color: rgb(238, 227, 227);
     background: url(assets/azulado.jpg) no-repeat top center/cover;
-    
 }
 
 header {
@@ -56,6 +55,8 @@ header {
     display: flex;
     flex-direction: column;
     gap: 1.8rem;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 .titulos {
