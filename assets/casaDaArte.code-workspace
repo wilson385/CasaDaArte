@@ -4,10 +4,8 @@
 			"path": ".."
 		},
 		{
-			"path": "../../AssembleiaDeDeus"
+			"path": "../../casa da arte"
 		}
 	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "casaDaArte"
-	}
+	"settings": {}
 }

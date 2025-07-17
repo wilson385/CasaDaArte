@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 * {
-    padding: 0px;
-    margin: 0px;
+    padding: 0;
+    margin: 0;
     font-family: "Lora", serif;
     box-sizing: border-box;
     color: aliceblue;
@@ -12,8 +12,39 @@
 body {
     background-color: rgb(238, 227, 227);
     background: url(assets/azulado.jpg) no-repeat top center/cover;
-    padding: 8px;
+    
 }
+
+header {
+  background-color: #1c1f2b;
+  display: flex;
+  
+}
+
+.logotipo-1 {
+    width: 90px;
+    padding: 8px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.titulo-logotipo {
+    display: flex;
+    align-items: center;
+    margin: 0 auto 0;
+    font-size: 50px;
+    color: rgb(226, 209, 209);
+    font-weight: 900px;
+    transition: 0.5s;
+    cursor: pointer;
+    font-family: "Dancing Script", cursive;
+    
+}
+
+.titulo-logotipo:hover {
+    color: white
+}
+
 
 .container {
     width: 100%;
@@ -30,20 +61,24 @@ body {
 .titulos {
     text-align: center;
     padding-top: 15px;
+    
 }
 
  h2 {
-    color:rgb(185, 40, 40) ;
+    color:rgb(185, 40, 40);
+    font-size: 29px;
  }
 
  h3 {
     font-family: "Dancing Script", cursive;
-    font-size: 25px;
+    font-size: 32px;
+
  }
 
-.logotipo {
-    width: 112px;
+.recital {
+    width: 240px;
     margin-top: 26px;
+    border-radius: 39px;
     
 }
 
@@ -78,19 +113,16 @@ ul li:hover {
     justify-content: center;
     gap: 20px;
     margin-top: 18px;
-   
- 
+    /* margin-left: 67px;
+    margin-right: 67px; */
+    
 }
 
-.aluno1 {
-    width: 130px;
-    border-radius: 8px;
+.alunos {
+    width: 195px;
+    border-radius: 28px;
 }
 
-.aluno2 {
-    width: 130px;
-    border-radius: 8px;
-}
 
 .localidade {
     display: flex;
