@@ -116,17 +116,17 @@ footer {
         display: flex;
         gap: 45px;
         font-size: 22px;
-        
+       
     }
-
-    
-
 
 .logoInst:hover, .logoZapp:hover {
     background-color: rgba(154, 59, 192, 0.178);
     border-radius: 19px;
     padding: 8px;
-    transition: all 0.4s;
+    transition:  0.9s;
+    
+    
+    
     
     
     
