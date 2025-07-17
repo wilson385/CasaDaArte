@@ -23,7 +23,6 @@ header {
 .logotipo-1 {
     width: 90px;
     padding: 8px;
-    margin-left: 8px;
     cursor: pointer;
 }
 
@@ -31,7 +30,7 @@ header {
     display: flex;
     align-items: center;
     margin: 0 auto 0;
-    font-size: 50px;
+    font-size: 40px;
     color: rgb(226, 209, 209);
     font-weight: 900px;
     transition: 0.5s;
