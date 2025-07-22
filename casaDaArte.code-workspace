@@ -4,7 +4,10 @@
 			"path": "."
 		},
 		{
-			"path": "../portifolio"
+			"path": "../starbucks"
+		},
+		{
+			"path": "../starbucks2"
 		}
 	],
 	"settings": {
