@@ -62,11 +62,18 @@ header {
     text-align: center;
     padding-top: 15px;
     
+    
+    
+}
+
+h1 {
+    font-family: "Dancing Script", cursive;
 }
 
  h2 {
     color:rgb(185, 40, 40);
     font-size: 29px;
+    font-family: "Dancing Script", cursive;
  }
 
  h3 {
