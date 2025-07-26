@@ -98,14 +98,15 @@ h1 {
 ul {
     display: flex;
     flex-direction: row;
+    /* “Se os itens não couberem em uma linha, mande o que sobrar para a próxima linha.” */
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
     /* elimina o pontinho do li */
     list-style-type: none;
-    cursor: pointer;
-    
+
 }
+
 
 
 ul li:hover {
@@ -114,6 +115,19 @@ ul li:hover {
     padding: 8px;
     transition: all 0.6s;
 }
+
+.caixa-curso {
+  background-color: rgba(0, 0, 0, 0.7); /* cor de fundo escura com transparência */
+  padding: 16px;
+  margin-top: 20px;
+  border-radius: 12px;
+  text-align: center;
+  font-size: 16px;
+  display: none; /* começa invisível */
+  color: white;
+  font-family: "Lora", serif;
+}
+
 
 .fotosAlunos {
     display: flex;
