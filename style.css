@@ -107,6 +107,10 @@ ul {
 
 }
 
+ul li {
+    cursor: pointer;
+}
+
 
 
 ul li:hover {
