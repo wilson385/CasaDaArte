@@ -43,6 +43,25 @@ header {
     color: white
 }
 
+.quemSomos    {
+    display: flex;
+}
+
+.quemSomos a {
+    text-decoration: none;
+    color: rgb(78, 57, 57);
+}
+
+.quemSomos p {
+    margin-top: 12px;
+    margin-left: 15px;
+    border: 1px solid rgb(36, 27, 75);
+    padding: 5px;
+    background-color: rgb(10, 20, 46);
+    border-radius: 10px;
+    
+}
+
 
 .container {
     width: 100%;
@@ -195,12 +214,6 @@ ul li:hover {
 .redesSociais a:hover {
     background-color: rgba(154, 59, 192, 0.178);
   
-    
-    
-    
-    
-    
-    
 
 }
 
