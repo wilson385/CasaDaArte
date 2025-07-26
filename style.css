@@ -164,19 +164,20 @@ ul li:hover {
 }
 
 
-footer {
+/* footer {
     display: flex;
     flex-direction: column;
     gap: 1rem;
     justify-content: center;
     align-items: center;
     
-}
+} */
     .redesSociais {
         display: flex;
         gap: 45px;
         font-size: 22px;
-       
+       justify-content: center;
+       padding: 8px;
     }
 
 .logoInst:hover, .logoZapp:hover {
@@ -193,16 +194,17 @@ footer {
 
 }
 
-footer .desenvolvedor {
+ .desenvolvedor {
   padding: 24px 0;
   font-size: 14px;
+  text-align: center;
     }
 
-    footer .desenvolvedor a {
+ .desenvolvedor a {
         text-decoration: none;
     }
 
-    footer .desenvolvedor a:hover {
+ .desenvolvedor a:hover {
         color: brown;
     }
     /* celuares */
