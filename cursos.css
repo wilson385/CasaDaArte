@@ -135,7 +135,7 @@ html, body {
 
 footer {
     background-color: #7a0505;
-    height: 4rem;
+    
 }
 
 footer  {
@@ -143,6 +143,10 @@ footer  {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+footer p {
+    padding: 15px;
 }
 
 
