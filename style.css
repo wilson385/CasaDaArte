@@ -139,6 +139,31 @@ ul li:hover {
     transition: all 0.6s;
 }
 
+.frasesInspiradoras {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.frasesInspiradoras h2 {
+    color: rgb(0, 140, 255);
+}
+button {
+    background-color: #1595ac;
+    border: none;
+    border-radius: 10px;
+    padding: 8px;
+    cursor: pointer;
+    width: 10rem;
+    
+}
+
+button:hover {
+    color: #010922;
+}
+
 .caixa-curso {
   background-color: rgba(0, 0, 0, 0.7); /* cor de fundo escura com transparência */
   padding: 16px;
