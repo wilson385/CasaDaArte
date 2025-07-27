@@ -149,6 +149,7 @@ ul li:hover {
 
 .frasesInspiradoras h2 {
     color: rgb(0, 140, 255);
+    text-align: center;
 }
 button {
     background-color: #1595ac;
@@ -162,6 +163,10 @@ button {
 
 button:hover {
     color: #010922;
+}
+
+p {
+    text-align: center;
 }
 
 .caixa-curso {
