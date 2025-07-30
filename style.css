@@ -122,6 +122,7 @@ header {
     /* margin-bottom: 30px; */
     width: 100%;
     
+    
 }
 
 .quemSomos2 p {
@@ -129,6 +130,7 @@ header {
     font-size: 22px;
     font-family: "Arimo", sans-serif;
     padding: 25px;
+    
    
 } 
 
@@ -203,6 +205,12 @@ footer p strong {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+
+    .quemSomos2 p {
+        font-size: 18px;
+        margin-right: 1rem;
+        font-weight: 400;
     }
 }
 
