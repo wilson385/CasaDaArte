@@ -47,10 +47,6 @@ header {
     display: flex;
 }
 
-.quemSomos a {
-    text-decoration: none;
-    
-}
 
 .quemSomos p {
     margin-top: 12px;
@@ -59,6 +55,7 @@ header {
     padding: 5px;
     background-color: rgb(18, 18, 19);
     border-radius: 15px;
+    text-decoration: none;
     
 }
 
