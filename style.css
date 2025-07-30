@@ -207,10 +207,15 @@ footer p strong {
         align-items: center;
     }
 
+    .quemSomos2 h2 {
+        padding: 18px;
+    }
+
     .quemSomos2 p {
         font-size: 18px;
         margin-right: 1rem;
         font-weight: 400;
+        padding: 0;
     }
 }
 
