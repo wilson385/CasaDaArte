@@ -142,6 +142,33 @@ ul li:hover {
     transition: all 0.6s;
 }
 
+.inforCursosC {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    height: auto;
+    border-radius: 8px;
+    
+    
+
+}
+
+.tituloCurso {
+    text-align: center;
+    padding-top: 8px;
+    
+}
+
+.sobreCurso  {
+    color: #000514;
+    font-weight: bolder;
+    padding: 8px;
+    font-size: 17px;
+    
+
+}
+
 .frasesInspiradoras {
     display: flex;
     flex-direction: column;
