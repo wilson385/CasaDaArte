@@ -25,8 +25,8 @@ function frasesAleatorias () {
      p.className = "sobreCurso"
 
 function audiovisual () {
-      // Limpa o conteúdo anterior antes de adicionar novos elementos
-    divInformacoes.innerHTML = ""
+    //   // Limpa o conteúdo anterior antes de adicionar novos elementos
+    // divInformacoes.innerHTML = ""
    h2.textContent = "🎬 Audiovisual"
 //    crases para escrever texto com muitiplas linhas
    p.textContent = "Aprenda a criar vídeos como um profissional! Explore técnicas de filmagem, edição, roteirização e produção para redes sociais, curtas, clipes e muito mais."
