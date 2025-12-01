@@ -193,18 +193,19 @@ footer {
 
 
 footer p {
-    padding: 15px;
+    padding: 20px;
 }
 
 
 footer  a {
-    text-decoration: none;
     color: white;
+    transition: all 0.8s;
+    text-decoration: none;
     
 }
 
-footer p strong {
-    color: rgb(3, 255, 108);
+footer p strong:hover {
+    color: rgb(127, 205, 211);
 }
 
 /* adaptando para dispositivos móveis */
