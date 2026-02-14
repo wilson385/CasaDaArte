@@ -281,17 +281,30 @@ footer p strong:hover {
     .header-primario {
         flex-direction: column;
         align-items: center;
-        gap: 5px;
     }
+
     nav {
         margin: 0 auto 0;
-        padding: 10px;
+        padding: 15px;
+    }
+
+    nav li a {
+        font-size: 20px;
     }
 
     .header-secundario {
         text-align: center;
         padding: 10px;
     }
+
+    .header-secundario h2 {
+        font-size: 30px;
+    }
+
+    .header-secundario p {
+        font-size: 18px;
+    }
+
     .conteudo {
         flex-direction: column;
         justify-content: center;
@@ -316,7 +329,9 @@ footer p strong:hover {
     .fundadora img {
         width: 290px;
     }
-
+    .informacoes {
+        margin-top: 30px;
+    }
     .informacoes p {
         text-align: center;
     }
