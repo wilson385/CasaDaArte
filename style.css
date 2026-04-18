@@ -30,7 +30,7 @@ header h1 {
 main .sessao-1 {
     background-color: #d80f0f;
     height: 19rem;
-    gap: 5px;
+    gap: 8px;
     color: white;
      display: flex;
     justify-content: center;
