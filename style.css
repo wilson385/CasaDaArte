@@ -42,12 +42,12 @@ main .sessao-1 h1 {
     text-align: center;
     /* font-family: monospace;  */
     font-family: "Patrick Hand", cursive;
-    font-size: 22px;
+    font-size: 26px;
 }
 
 main .sessao-1 p {
        text-align: center;
-     font-size: 15px;
+     font-size: 19px;
      /* font-family: 'Inter', sans-serif; */
      font-family: "Patrick Hand", cursive;
      line-height: 20px;
