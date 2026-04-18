@@ -40,14 +40,16 @@ main .sessao-1 {
 
 main .sessao-1 h1 {
     text-align: center;
-    font-family: monospace; 
+    /* font-family: monospace;  */
+    font-family: "Patrick Hand", cursive;
     font-size: 22px;
 }
 
 main .sessao-1 p {
        text-align: center;
-     font-size: 14px;
-     font-family: 'Inter', sans-serif;
+     font-size: 15px;
+     /* font-family: 'Inter', sans-serif; */
+     font-family: "Patrick Hand", cursive;
      line-height: 20px;
      padding: 6px;    
 }
@@ -264,7 +266,7 @@ main .cursos ul a {
 
 main .cursos ul a:hover {
     background-color: #e03a3a;
-    border: #01b6b6 solid 4px;
+    border: #a50606 solid 4px;
 }
 
 main .cursos ul a img{
