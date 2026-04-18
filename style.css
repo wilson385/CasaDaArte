@@ -40,16 +40,14 @@ main .sessao-1 {
 
 main .sessao-1 h1 {
     text-align: center;
-    /* font-family: monospace;  */
-    font-family: "Patrick Hand", cursive;
-    font-size: 26px;
+    font-family: monospace;  
+    font-size: 23px;
 }
 
 main .sessao-1 p {
        text-align: center;
-     font-size: 19px;
-     /* font-family: 'Inter', sans-serif; */
-     font-family: "Patrick Hand", cursive;
+     font-size: 18px;
+     font-family: 'Inter', sans-serif;
      line-height: 20px;
      padding: 6px;    
 }
@@ -64,7 +62,7 @@ main .sessao-1  a {
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    padding: 16px;
+    padding: 20px;
     margin-top: 5px;
 }
 
