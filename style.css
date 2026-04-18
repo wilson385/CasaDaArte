@@ -47,7 +47,7 @@ main .sessao-1 h1 {
 main .sessao-1 p {
        text-align: center;
      font-size: 14px;
-     font-family: "Patrick Hand", cursive;
+     font-family: 'Inter', sans-serif;
      line-height: 20px;
      padding: 6px;    
 }
