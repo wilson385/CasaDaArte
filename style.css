@@ -75,7 +75,7 @@ main .sessao-1  a button {
 }
 
 main .sessao-1 a:hover {
-    background-color: #03160c;
+    background-color: #ac0101;
 }
 
 main .quemSomos {
@@ -154,7 +154,7 @@ main .apresentacao {
 }
 
 main .apresentacao h2 {
-    font-size: 23px;
+    font-size: 25px;
     color: white;
     text-align: center;
     padding: 20px;
@@ -184,7 +184,7 @@ main .depoimentos {
 }
 
 main .depoimentos h2 {
-    font-size: 23px;
+    font-size: 25px;
     color: white;
     text-align: center;
     padding: 10px;
@@ -225,7 +225,7 @@ main .cursos {
 }
 
 main .cursos h2 {
-    font-size: 23px;
+    font-size: 25px;
     font-family: "Patrick Hand", cursive;
     text-align: center;
     padding: 10px;
