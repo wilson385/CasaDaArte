@@ -64,13 +64,13 @@ main .sessao-1  a {
     justify-content: center;
     text-decoration: none;
     margin-top: 6px;
-    padding: 20px;
+    padding: 10px;
     margin-top: 5px;
 }
 
 main .sessao-1  a button {
      border: none;
-    background-color: transparent;
+background-color: transparent;
     color: #E0E0E0;
     font-size: 1.10rem;
     font-weight: bolder;
@@ -150,7 +150,7 @@ main .visao p {
 }
 
 main .apresentacao {
-    margin-top: 4px;
+    margin-top: 40px;
     /* background: url(assets/vermelho1.jpg) no-repeat center center/cover; */
     background-color: #C00000;
     height: auto;
@@ -158,7 +158,7 @@ main .apresentacao {
 }
 
 main .apresentacao h2 {
-    font-size: 25px;
+    font-size: 40px;
     color: white;
     text-align: center;
     padding: 20px;
@@ -188,7 +188,7 @@ main .depoimentos {
 }
 
 main .depoimentos h2 {
-    font-size: 29px;
+    font-size: 40px;
     color: white;
     text-align: center;
     padding: 10px;
