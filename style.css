@@ -12,9 +12,11 @@ header {
   justify-content: center;
   align-items: center;
     height: auto;
+    padding: 15px;
 }
 
 header a .logo{
+    background-color: #ca0b0b;
     width: 210px;
     margin: 0 auto 0;
 
