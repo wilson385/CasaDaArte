@@ -71,8 +71,6 @@ main .sessao-1  a button {
     border: none;
     color: rgb(255, 255, 255);
     cursor: pointer;
-    font-family: "Patrick Hand", cursive;
-    font-size: 20px;
 }
 
 main .sessao-1 a:hover {
@@ -185,7 +183,7 @@ main .depoimentos {
 }
 
 main .depoimentos h2 {
-    font-size: 25px;
+    font-size: 29px;
     color: white;
     text-align: center;
     padding: 10px;
@@ -226,7 +224,7 @@ main .cursos {
 }
 
 main .cursos h2 {
-    font-size: 25px;
+    font-size: 29px;
     font-family: "Patrick Hand", cursive;
     text-align: center;
     padding: 10px;
