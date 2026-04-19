@@ -46,14 +46,14 @@ main .sessao-1 h1 {
 
 main .sessao-1 p {
        text-align: center;
-     font-size: 18px;
+     font-size: 16px;
      font-family: 'Inter', sans-serif;
      line-height: 19px;
      padding: 6px;    
 }
 
 main .sessao-1  a {
-    background-color: #800101;
+    background-color: #490000;
     border-radius: 10px;
     transition: all 0.5s;
     width: 220px;
