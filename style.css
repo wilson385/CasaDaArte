@@ -71,7 +71,7 @@ main .sessao-1  a button {
     border: none;
     color: rgb(255, 255, 255);
     cursor: pointer;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Patrick Hand", cursive;
 }
 
 main .sessao-1 a:hover {
@@ -195,7 +195,7 @@ main .depoimentos p {
      line-height: 20px;
     text-align: center;
     font-size: 15px;
-      font-family: "Patrick Hand", cursive;
+     font-family: 'Inter', sans-serif;
      color: rgb(255, 255, 255);
      font-weight: bolder;
 }
