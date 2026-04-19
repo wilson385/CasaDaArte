@@ -72,6 +72,7 @@ main .sessao-1  a button {
     color: rgb(255, 255, 255);
     cursor: pointer;
     font-family: "Patrick Hand", cursive;
+    font-size: 20px;
 }
 
 main .sessao-1 a:hover {
@@ -194,7 +195,7 @@ main .depoimentos h2 {
 main .depoimentos p {
      line-height: 20px;
     text-align: center;
-    font-size: 15px;
+    font-size: 13px;
      font-family: 'Inter', sans-serif;
      color: rgb(255, 255, 255);
      font-weight: bolder;
