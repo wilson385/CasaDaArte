@@ -266,6 +266,7 @@ main .cursos ul a {
     flex-direction: column;
     gap: 10px;
     z-index: 1;
+    overflow: hidden;
 }
 
 main .cursos ul a:hover {
@@ -276,12 +277,13 @@ main .cursos ul a:hover {
 main .cursos ul a img{
     width: 100px;
     height: 50px;
-    margin-top: -10px;
+    margin-top: 5px;
 }
 
 main .cursos ul li {
     color: #ffffff;
-
+    text-align: center;
+    padding: 4px;
 }
 
 main .venhaNosConhecer {
