@@ -49,11 +49,11 @@ main .sessao-1 p {
 }
 
 main .sessao-1  a {
-    background-color: #800101;
-    list-style: none;
+   list-style: none;
+     background-color: #800101;
     border-radius: 10px;
     transition: all 0.5s;
-     width: 290px;
+    width: 290px;
     height: 40px;
     display: flex;
     align-items: center;
@@ -61,16 +61,16 @@ main .sessao-1  a {
     text-decoration: none;
     margin-top: 6px;
     padding: 10px;
-    margin-top: 5px;
+    margin-top: 10px
 }
 
 main .sessao-1  a button {
      border: none;
-background-color: transparent;
+    background-color: transparent;
     color: #E0E0E0;
     font-size: 1.10rem;
-    cursor: pointer;
     font-family: monospace;
+    cursor: pointer;
 }
 
 main .sessao-1 a:hover {
