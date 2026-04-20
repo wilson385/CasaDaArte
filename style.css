@@ -53,7 +53,7 @@ main .sessao-1  a {
     list-style: none;
     border-radius: 10px;
     transition: all 0.5s;
-    width: 40%;
+    width: 300px;
     height: 40px;
     display: flex;
     align-items: center;
@@ -93,7 +93,7 @@ main .quemSomos h2 {
 }
 
 main .quemSomos .recital {
-    width: 100%;
+    width: 40%;
     max-width: 512px;
     margin-top: 26px;
     border-radius: 39px;
@@ -131,7 +131,7 @@ main .visao h2 {
 }
 
 .alunos {
-    width: 100%;
+    width: 40%;
     max-width: 512px;
     border-radius: 28px;
     padding: 6px;
