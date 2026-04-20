@@ -436,4 +436,7 @@ main .depoimentos div {
     justify-content: center;
     gap: 20px;
 }
+footer p {
+    font-size: 15px;
+}
 }
