@@ -53,7 +53,7 @@ main .sessao-1  a {
     list-style: none;
     border-radius: 10px;
     transition: all 0.5s;
-    width: 300px;
+     width: 290px;
     height: 40px;
     display: flex;
     align-items: center;
