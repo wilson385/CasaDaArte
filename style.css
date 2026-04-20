@@ -16,7 +16,8 @@ header {
 }
 
 header a .logo{
-    background-color: #ca0b0b;
+    background-color: #c50a0a;
+    border-radius: 20px;
     width: 210px;
     margin: 0 auto 0;
 
@@ -290,10 +291,15 @@ main .venhaNosConhecer {
     justify-content: center;
     height: auto;
     margin-top: 20px;
+    background-color: #9b0000;
+    margin-top: 4rem;
+    padding: 16px;
+    border-radius: 10px;
 }
 
 main .venhaNosConhecer h3 {
-     color: #810505;
+     /* color: #810505; */
+     color: white;
     font-size: 20px;
     font-family: 'Playfair Display', serif;
     text-align: center;
@@ -303,7 +309,8 @@ main .venhaNosConhecer h3 {
 
 main .venhaNosConhecer p {
     text-align: center;
-     color: #000000;
+     /* color: #000000; */
+     color: white;
     padding: 8px;
     line-height: 25px;
     font-size: 15px;
@@ -368,13 +375,13 @@ ion-icon {
 }
 
 .redes-sociais .logo-zapp {
-    color: #023500;
+    color: rgb(177, 25, 25);
     font-size: 1.56rem;
     transition: all 0.5s;
 }
 
 .redes-sociais .logo-inst {
-    color: #160053;
+  color: rgb(70, 9, 9);
     font-size: 1.56rem;
     transition: all 0.5s;
 }
