@@ -1,7 +1,7 @@
-<h1 align="center">Assembleia de Deus Web</h1>
+<h1 align="center">🎵 Casa da Arte</h1>
 
 <p align="center">
-  Site institucional desenvolvido para divulgar eventos, informações e conteúdos da igreja.
+  Site institucional moderno e responsivo desenvolvido para fortalecer a presença digital da empresa e divulgar seus cursos.
 </p>
 
 <p align="center">
@@ -33,6 +33,7 @@
 
 - HTML5
 - CSS3
+- JavaScript
 - Git
 - GitHub
 
@@ -40,9 +41,9 @@
 
 ## 💻 Projeto
 
-Site institucional moderno e responsivo desenvolvido para divulgar cursos e atividades musicais, fortalecendo a presença digital da empresa e transmitindo mais credibilidade ao público.
+Projeto desenvolvido com foco em responsividade, organização visual e experiência do usuário, apresentando uma interface moderna para divulgação de cursos e atividades artísticas.
 
-O projeto também teve como objetivo aprimorar minhas habilidades em desenvolvimento web e criação de interfaces responsivas.
+Além de fortalecer minhas habilidades em desenvolvimento web, este projeto demonstra a criação de layouts profissionais e adaptáveis para diferentes dispositivos.
 
 ---
 
