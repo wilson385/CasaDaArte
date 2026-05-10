@@ -1,54 +1,49 @@
-<h1 align="center">🎵 Casa da Arte</h1>
+  #  Casa da Arte - Site Institucional
 
-<p align="center">
-  Site institucional moderno e responsivo desenvolvido para fortalecer a presença digital da empresa e divulgar seus cursos.
-</p>
+![Preview do Projeto](./assets/capa.jpg)
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licenca">Licença</a>
-</p>
+## 📖 Sobre o Projeto
 
-<p align="center">
-  <img 
-    alt="License" 
-    src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000"
-  >
-</p>
+O **Casa da Arte** é um site institucional desenvolvido para uma escola de música e artes, com o objetivo de fortalecer sua presença digital e torná-la mais acessível na internet.
 
-<br>
+O projeto foi criado para que novas pessoas possam conhecer a escola, visualizar informações importantes e entrar em contato de forma simples e rápida.
 
-<p align="center">
-  <img 
-    alt="Preview do Projeto" 
-    src=".github/casa da arte 2.0.png" 
-    width="100%"
-  >
+---
+
+## 🚀 Tecnologias Utilizadas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Tecnologias
+## ✨ Funcionalidades
 
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
-
----
-
-## 💻 Projeto
-
-Projeto desenvolvido com foco em responsividade, organização visual e experiência do usuário, apresentando uma interface moderna para divulgação de cursos e atividades artísticas.
-
-Além de fortalecer minhas habilidades em desenvolvimento web, este projeto demonstra a criação de layouts profissionais e adaptáveis para diferentes dispositivos.
+- Página inicial moderna e responsiva
+- Apresentação da escola
+- Divulgação dos cursos
+- Botão para agendamento de aula experimental
+- Interface simples, acessível e intuitiva
 
 ---
 
-## 🔖 Licença
+##  Objetivo
 
-Este projeto está sob a licença MIT.
+Desenvolver uma plataforma online para aumentar a visibilidade da escola na internet, permitindo que mais pessoas conheçam os cursos e a proposta da Casa da Arte.
+
+
 
 ---
+
+
+## 👨‍💻 Desenvolvido por
+
+**Wilson Oliveira**  
+🚀 Desenvolvedor Web e Mobile
