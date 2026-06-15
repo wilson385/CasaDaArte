@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-
 header {
   background-color: #C00000;
   display: flex;  
@@ -20,7 +19,6 @@ header a .logo{
     border-radius: 20px;
     width: 250px;
     margin: 0 auto 0;
-/*  */
 }
 
 main .sessao-1 {
@@ -35,24 +33,22 @@ main .sessao-1 {
 }
 
 main .sessao-1 h1 {
-     font-size: 20px;
+    font-size: 20px;
     text-align: center;  
-   font-family: 'Playfair Display', serif;
-     font-weight: 700;
+   font-family: lora, sans-serif;
 }
 
 main .sessao-1 p {
      text-align: center;
-     font-size: 15px;
-     font-family: 'Inter', sans-serif;
+      font-size: 15px;
+     font-family: lora, sans-serif;
      line-height: 20px;
-     font-weight: 400;
      padding: 6px;    
 }
 
 main .sessao-1  a {
    list-style: none;
-     background-color: #800101;
+     background-color: #511213;
     border-radius: 10px;
     transition: all 0.5s;
     width: 290px;
@@ -69,12 +65,13 @@ main .sessao-1  a button {
     background-color: transparent;
     color: #E0E0E0;
     font-size: 1.10rem;
-     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     cursor: pointer;
 }
 
 main .sessao-1 a:hover {
-    background-color: #ac0101;
+    background-color: rgb(133, 4, 4);
 }
 
 main .quemSomos {
@@ -89,7 +86,7 @@ main .quemSomos {
 main .quemSomos h2 {
     color: #810505;
     font-size: 26px;
-    font-family: 'Playfair Display', serif;
+    font-family: "Patrick Hand", cursive;
 }
 
 main .quemSomos .recital {
@@ -107,7 +104,7 @@ main .quemSomos p {
      font-family: 'Inter', sans-serif;
 }
 
-main .visao {
+main .futuro {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -116,10 +113,10 @@ main .visao {
     margin-top: 24px;
 }
 
-main .visao h2 {
+main .futuro h2 {
     color: #810505;
     font-size: 26px;
-    font-family: 'Playfair Display', serif;
+    font-family: "Patrick Hand", cursive;
 }
 
 .fotosAlunos {
@@ -137,7 +134,7 @@ main .visao h2 {
     padding: 6px;
 }
 
-main .visao p {
+main .futuro p {
     line-height: 22px;
     text-align: center;
     padding: 12px;
@@ -145,88 +142,89 @@ main .visao p {
      font-family: 'Inter', sans-serif;
 }
 
-main .apresentacao {
+/* main .apresentacao {
     margin-top: 40px;
-    /* background: url(assets/vermelho1.jpg) no-repeat center center/cover; */
     background-color: #C00000;
     height: auto;
     padding: 20px;
-}
+} */
 
-main .apresentacao h2 {
+/* main .apresentacao h2 {
     font-size: 40px;
     color: white;
     text-align: center;
     padding: 20px;
    font-family: "Patrick Hand", cursive;
-}
-main .apresentacao div {
+} */
+/* main .apresentacao div {
     display: flex;
     flex-direction: column;
     gap: 15px;
     justify-content: center;
     align-items: center;
-}
+} */
 
-main .apresentacao div iframe {
+/* main .apresentacao div iframe {
     width: 100%;
     max-width: 330px;
     border-radius: 10px;
     height: 280px;
     border: 1px solid rgb(104, 6, 6);
-}
+} */
 
-main .depoimentos {
-    /* background: url(assets/vermelho1.jpg) no-repeat center center/cover; */
+/* main .depoimentos {
+     background: url(assets/vermelho1.jpg) no-repeat center center/cover;
      background-color: #d80f0f;
     height: auto;
-    padding: 20px;
-}
+    padding: 20px; 
+} */  
 
-main .depoimentos h2 {
+/* main .depoimentos h2 {
     font-size: 40px;
     color: white;
     text-align: center;
     padding: 10px;
     font-family: "Patrick Hand", cursive;
-}
+} */
 
-main .depoimentos p {
+/* main .depoimentos p {
      line-height: 20px;
     text-align: center;
     font-size: 13px;
      font-family: 'Inter', sans-serif;
      color: rgb(255, 255, 255);
      font-weight: bolder;
-}
+} */
 
-main .depoimentos div {
+/* main .depoimentos div {
     display: flex;
     flex-direction: column;
     gap: 15px;
     justify-content: center;
     align-items: center;
     margin-top: 16px;
-}
+} */
 
-main .depoimentos div iframe {
+/* main .depoimentos div iframe {
     width: 100%;
     max-width: 330px;
     border-radius: 10px;
     height: 200px;
     border: 1px solid rgb(104, 6, 6);
-}
+} */
 main .cursos {
     background-color: #c40808;
     height: auto;
     position: relative; /* MUITO IMPORTANTE */
     overflow: hidden;
     padding: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
 }
 
 main .cursos h2 {
     font-size: 40px;
-    font-family: "Patrick Hand", cursive;
+    font-family: lora, sans-serif;
     text-align: center;
     padding: 10px;
     margin-top: 10px;
@@ -290,14 +288,14 @@ main .venhaNosConhecer {
     background-color: #9b0000;
     margin-top: 4rem;
     padding: 15px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 main .venhaNosConhecer h3 {
      /* color: #810505; */
      color: white;
     font-size: 20px;
-    font-family: 'Playfair Display', serif;
+    font-family: lora, sans-serif;
     text-align: center;
     padding: 10px;
     margin-top: 10px;
@@ -315,7 +313,7 @@ main .venhaNosConhecer p {
 
 main .venhaNosConhecer .agendar {
     list-style: none;
-     background-color: #800101;
+     background-color: #511213;
     border-radius: 10px;
     transition: all 0.5s;
     width: 290px;
@@ -333,7 +331,7 @@ main .venhaNosConhecer .agendar {
 }
 
 main .venhaNosConhecer .agendar:hover {
-    background-color: #c90404;
+    background-color: rgb(133, 4, 4);
 }
 
 main .venhaNosConhecer .agendar button {
@@ -404,41 +402,42 @@ footer p {
 
 /* dispostivo com telas maiores */
 @media (min-width: 801px) {
-    main .sessao-1 h1 {
-        font-size: 28px;
-}
-     main .sessao-1 p {
+
+        main .sessao-1 h1 {
+            font-size: 28px;
+    }
+        main .sessao-1 p {
+            font-size: 18px;
+    }
+    main .quemSomos h2 {
+        font-size: 32px;
+    }
+    main .quemSomos p {
         font-size: 18px;
-}
-main .quemSomos h2 {
-    font-size: 32px;
-}
-main .quemSomos p {
-    font-size: 18px;
-    padding: 26px;
-}
-main .visao h2 {
-    font-size: 32px;
-}
-main .visao p {
-    font-size: 18px;
-    padding: 26px;
-}
-main .apresentacao div {
-     flex-direction: row;
-    /* “Se os itens não couberem em uma linha, mande o que sobrar para a próxima linha.” */
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-}
-main .depoimentos div {
-     flex-direction: row;
-    /* “Se os itens não couberem em uma linha, mande o que sobrar para a próxima linha.” */
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-}
-footer p {
-    font-size: 15px;
-}
-}
+        padding: 26px;
+    }
+    main .futuro h2 {
+        font-size: 32px;
+    }
+    main .futuro p {
+        font-size: 18px;
+        padding: 26px;
+    }
+    main .apresentacao div {
+        flex-direction: row;
+        /* “Se os itens não couberem em uma linha, mande o que sobrar para a próxima linha.” */
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    main .depoimentos div {
+        flex-direction: row;
+        /* “Se os itens não couberem em uma linha, mande o que sobrar para a próxima linha.” */
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    footer p {
+        font-size: 15px;
+    }
+    }
