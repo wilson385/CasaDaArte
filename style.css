@@ -5,11 +5,11 @@
 }
 
 header {
-  background-color: #C00000;
-  display: flex;  
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+    background-color: #C00000;
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     height: auto;
     padding: 15px;
 }
@@ -290,7 +290,7 @@ main .venhaNosConhecer {
     margin-top: 4rem;
     padding: 15px;
     border-radius: 10px;
-
+/*  */
 }
 
 main .venhaNosConhecer h3 {
@@ -341,7 +341,6 @@ main .venhaNosConhecer .agendar button {
     background-color: transparent;
     color: #E0E0E0;
     font-size: 1.10rem;
-    font-family: monospace;
     cursor: pointer;
 }
 
