@@ -316,7 +316,7 @@ main .venhaNosConhecer p {
 
 main .venhaNosConhecer .agendar {
     list-style: none;
-     background-color: #511213;
+     background-color: white;
     border-radius: 10px;
     transition: all 0.5s;
     width: 290px;
@@ -329,18 +329,12 @@ main .venhaNosConhecer .agendar {
     padding: 10px;
     margin-top: 10px;
     font-size: 1.10rem;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
-}
-
-main .venhaNosConhecer .agendar:hover {
-    background-color: rgb(133, 4, 4);
 }
 
 main .venhaNosConhecer .agendar button {
     border: none;
     background-color: transparent;
-    color: #E0E0E0;
+    color: #b30000;
     font-size: 1.10rem;
     cursor: pointer;
 }
