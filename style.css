@@ -1,11 +1,16 @@
+ @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 header {
-    background-color: #C00000;
+    background-color: #b30000;
     display: flex;  
     flex-direction: column;
     justify-content: center;
@@ -22,7 +27,7 @@ header a .logo{
 }
 
 main .sessao-1 {
-    background-color: #d80f0f;
+    background-color: #a80404;
     height: 19rem;
     gap: 8px;
     color: white;
@@ -35,20 +40,20 @@ main .sessao-1 {
 main .sessao-1 h1 {
     font-size: 20px;
     text-align: center;  
-   font-family: lora, sans-serif;
+   
 }
 
 main .sessao-1 p {
      text-align: center;
       font-size: 15px;
-     font-family: lora, sans-serif;
+     /* font-family: lora, sans-serif; */
      line-height: 20px;
      padding: 6px;    
 }
 
 main .sessao-1  a {
    list-style: none;
-     background-color: #511213;
+     background-color: white;
     border-radius: 10px;
     transition: all 0.5s;
     width: 290px;
@@ -63,15 +68,11 @@ main .sessao-1  a {
 main .sessao-1  a button {
      border: none;
     background-color: transparent;
-    color: #E0E0E0;
+    color: #b30000;
     font-size: 1.10rem;
      font-size: 15px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     cursor: pointer;
-}
-
-main .sessao-1 a:hover {
-    background-color: rgb(133, 4, 4);
 }
 
 main .quemSomos {
