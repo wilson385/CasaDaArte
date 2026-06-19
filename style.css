@@ -10,7 +10,8 @@ body {
 }
 
 header {
-    background-color: #b30000;
+     /* #b30000; */
+    background-color: #8a0606;
     display: flex;  
     flex-direction: column;
     justify-content: center;
@@ -20,14 +21,15 @@ header {
 }
 
 header a .logo{
-    background-color: #c50a0a;
+     /* #c50a0a */
+    background-color: #940b0b;
     border-radius: 20px;
     width: 250px;
     margin: 0 auto 0;
 }
 
 main .sessao-1 {
-    background-color: #a80404;
+    background: #a80404 url('assets/vermelho.png') no-repeat top center;
     height: 19rem;
     gap: 8px;
     color: white;
