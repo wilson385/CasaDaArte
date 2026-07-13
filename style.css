@@ -46,6 +46,7 @@ main .sessao-1 {
     position: absolute;
     background: url(assets/estudantes.jpg) no-repeat center/cover;
     opacity: 0.2;
+    z-index: 1;
 }
 
 main .sessao-1 h1 {
@@ -74,6 +75,8 @@ main .sessao-1  a {
     justify-content: center;
     text-decoration: none;
     padding: 10px;
+    position: relative;
+    z-index: 2;
 }
 
 main .sessao-1  a button {
