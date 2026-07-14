@@ -1,38 +1,38 @@
- @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
-* {
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+   * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
 }
 
 header {
      /*  */
      /*  */
-    background-color: #b30000;
+    background: #b30000;
      /* #8a0606; */
     display: flex;  
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: auto;
+    height: 23rem;
     padding: 15px;
 }
 
 header a .logo{
-    /* background-color: #c50a0a; */
-     /* #940b0b; */
-    /* border-radius: 20px; */
-    width: 250px;
     margin: 0 auto 0;
-}
+} 
 
 main .sessao-1 {
     background: #a80404;
-    height: 19rem;
+    height: 28rem;
     gap: 8px;
     color: white;
      display: flex;
@@ -40,6 +40,7 @@ main .sessao-1 {
     align-items: center;
     flex-direction: column;
     position: relative;
+
 }
 
 .estudantes {
@@ -52,12 +53,11 @@ main .sessao-1 {
 main .sessao-1 h1 {
     font-size: 20px;
     text-align: center;  
-   
 }
 
 main .sessao-1 p {
      text-align: center;
-      font-size: 15px;
+      font-size: 18px !important;
      /* font-family: lora, sans-serif; */
      line-height: 20px;
      padding: 6px;    
@@ -68,8 +68,8 @@ main .sessao-1  a {
      background-color: white;
     border-radius: 10px;
     transition: all 0.5s;
-    width: 290px;
-    height: 40px;
+    width: 296px;
+    height: 48px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -77,17 +77,18 @@ main .sessao-1  a {
     padding: 10px;
     position: relative;
     z-index: 2;
+    color: #b30000;
+    font-size: 1.2rem;
+    cursor: pointer;
+    text-align: center;
+    transition: 0.9s;
 }
 
-main .sessao-1  a button {
-     border: none;
-    background-color: transparent;
-    color: #b30000;
-    font-size: 1.10rem;
-     font-size: 15px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    cursor: pointer;
+main .sessao-1 a:hover {
+    background-color: #adadad;
 }
+
+
 
 main .quemSomos {
      display: flex;
@@ -101,7 +102,6 @@ main .quemSomos {
 main .quemSomos h2 {
     color: #810505;
     font-size: 26px;
-    font-family: "Patrick Hand", cursive;
 }
 
 main .quemSomos .recital {
@@ -115,8 +115,7 @@ main .quemSomos p {
     line-height: 22px;
     text-align: center;
     padding: 10px;
-    font-size: 15px;
-     font-family: 'Inter', sans-serif;
+    font-size: 20px;
 }
 
 main .futuro {
@@ -131,7 +130,6 @@ main .futuro {
 main .futuro h2 {
     color: #810505;
     font-size: 26px;
-    font-family: "Patrick Hand", cursive;
 }
 
 .fotosAlunos {
@@ -139,7 +137,6 @@ main .futuro h2 {
     justify-content: center;
     gap: 20px;
     margin-top: 18px;
-    
 }
 
 .alunos {
@@ -154,7 +151,6 @@ main .futuro p {
     text-align: center;
     padding: 12px;
     font-size: 15px;
-     font-family: 'Inter', sans-serif;
 }
 
 /* main .apresentacao {
@@ -239,7 +235,6 @@ main .cursos {
 
 main .cursos h2 {
     font-size: 40px;
-    font-family: lora, sans-serif;
     text-align: center;
     padding: 10px;
     margin-top: 10px;
@@ -264,7 +259,6 @@ main .cursos ul a {
     border-radius: 10px;
     font-size: 25px;
     border: #ac0000 solid 2px;
-    font-family: 'Courier New', Courier, monospace;
     transition:  0.4s;
     text-decoration: none;
     display: flex;
@@ -312,7 +306,6 @@ main .venhaNosConhecer h3 {
      /* color: #810505; */
      color: white;
     font-size: 20px;
-    font-family: lora, sans-serif;
     text-align: center;
     padding: 10px;
     margin-top: 10px;

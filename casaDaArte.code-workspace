@@ -4,13 +4,14 @@
 			"path": "."
 		},
 		{
-			"path": "../starbucks"
+			"path": "../casa da arte"
 		},
 		{
-			"path": "../starbucks2"
+			"path": "../../front end firjan/chaleu"
 		}
 	],
 	"settings": {
+		"liveServer.settings.port": 5501,
 		"liveServer.settings.multiRootWorkspaceName": "casaDaArte"
 	}
 }
