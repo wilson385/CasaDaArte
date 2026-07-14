@@ -57,7 +57,7 @@ main .sessao-1 h1 {
 
 main .sessao-1 p {
      text-align: center;
-      font-size: 16px !important;
+      font-size: 17px;
      /* font-family: lora, sans-serif; */
      line-height: 20px;
      padding: 6px;    
@@ -78,7 +78,7 @@ main .sessao-1  a {
     position: relative;
     z-index: 2;
     color: #b30000;
-    font-size: 1.2rem;
+    font-size: 1rem;
     cursor: pointer;
     text-align: center;
     transition: 0.9s;
