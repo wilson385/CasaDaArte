@@ -267,6 +267,7 @@ main .cursos ul a {
     gap: 10px;
     z-index: 1;
     overflow: hidden;
+    
 }
 
 main .cursos ul a:hover {
