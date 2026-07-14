@@ -14,12 +14,9 @@ h1, h2, h3 {
 }
 
 header {
-     /*  */
-     /*  */
     background: #b30000;
      /* #8a0606; */
     display: flex;  
-    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 23rem;
@@ -28,6 +25,8 @@ header {
 
 header a .logo{
     margin: 0 auto 0;
+    width: 100%;
+    height: 100%;
 } 
 
 main .sessao-1 {
