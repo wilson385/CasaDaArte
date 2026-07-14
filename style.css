@@ -56,7 +56,7 @@ main .sessao-1 h1 {
 
 main .sessao-1 p {
      text-align: center;
-      font-size: 17px;
+      font-size: 15px;
      /* font-family: lora, sans-serif; */
      line-height: 20px;
      padding: 6px;    
@@ -67,8 +67,8 @@ main .sessao-1  a {
      background-color: white;
     border-radius: 10px;
     transition: all 0.5s;
-    width: 296px;
-    height: 48px;
+    width: 200px;
+    height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -77,7 +77,7 @@ main .sessao-1  a {
     position: relative;
     z-index: 2;
     color: #b30000;
-    font-size: 1rem;
+    font-size: 0.8rem;
     cursor: pointer;
     text-align: center;
     transition: 0.9s;
@@ -293,7 +293,7 @@ main .venhaNosConhecer {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 20rem;
+    height: auto;
     margin-top: 20px;
     background-color: #9b0000;
     margin-top: 4rem;
@@ -407,40 +407,54 @@ footer p {
 @media (min-width: 801px) {
 
         main .sessao-1 h1 {
-            font-size: 28px;
+            font-size: 35px;
     }
         main .sessao-1 p {
-            font-size: 18px;
+            font-size: 22px;
+            line-height: 28px;
+    }
+
+    main .sessao-1 a {
+        font-size: 1.4rem;
+        width: 366px;
     }
     main .quemSomos h2 {
         font-size: 32px;
     }
     main .quemSomos p {
-        font-size: 18px;
+        font-size: 22px;
         padding: 26px;
+        line-height: 30px;
+        width: 80%;
+
     }
     main .futuro h2 {
         font-size: 32px;
     }
     main .futuro p {
-        font-size: 18px;
+        font-size: 22px;
         padding: 26px;
+        line-height: 30px;
+       width: 80%;
     }
     main .apresentacao div {
         flex-direction: row;
         /* “Se os itens não couberem em uma linha, mande o que sobrar para a próxima linha.” */
-        flex-wrap: wrap;
+         flex-wrap: wrap;
         justify-content: center;
         gap: 20px;
     }
-    main .depoimentos div {
-        flex-direction: row;
-        /* “Se os itens não couberem em uma linha, mande o que sobrar para a próxima linha.” */
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 20px;
+
+    main .venhaNosConhecer h3 {
+        font-size: 27px;
     }
-    footer p {
-        font-size: 15px;
+
+     main .venhaNosConhecer p {
+        font-size: 20px;
+        line-height: 30px;
     }
+     footer p {
+        font-size: 16px;
+    }
+    
     }
