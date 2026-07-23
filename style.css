@@ -86,6 +86,8 @@ main .sessao-1  a {
     cursor: pointer;
     text-align: center;
     transition: 0.9s;
+    margin-top: 4px;
+
 }
 
 main .sessao-1 a:hover {
@@ -411,6 +413,9 @@ footer p {
 /* dispostivo com telas maiores */
 @media (min-width: 801px) {
 
+        main .sessao-1 {
+            gap: 12px;
+        }
         main .sessao-1 h1 {
             font-size: 35px;
     }
@@ -422,6 +427,7 @@ footer p {
     main .sessao-1 a {
         font-size: 1.4rem;
         width: 366px;
+        margin-top: 8px;
     }
     main .quemSomos h2 {
         font-size: 32px;
