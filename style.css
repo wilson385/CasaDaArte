@@ -11,6 +11,11 @@ body {
 
 h1, h2, h3 {
     font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+}
+
+p {
+    letter-spacing: 1px;
 }
 
 header {
@@ -32,7 +37,7 @@ header a .logo{
 main .sessao-1 {
     background: #a80404;
     height: 28rem;
-    gap: 8px;
+    gap: 11px;
     color: white;
      display: flex;
     justify-content: center;
