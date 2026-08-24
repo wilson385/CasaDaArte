@@ -42,9 +42,10 @@ site-escola/
     └── imagens/
 ```
 
-## 📌 Sobre o projeto
+## 📋 Documentação
+O levantamento e a documentação dos requisitos do projeto estão disponíveis em:
 
-Este projeto faz parte dos estudos de **Análise e Desenvolvimento de Sistemas** e tem como objetivo aplicar conceitos de desenvolvimento web, organização de requisitos, HTML e CSS na criação de um site institucional.
+docs/requerimento.md
 
 ---
 
