@@ -8,13 +8,13 @@ Criar uma presença digital para a escola, facilitando o acesso às informaçõe
 
 ## 🚀 Funcionalidades
 
-* Apresentação da escola.
-* Informações sobre os cursos oferecidos.
-* Área de contato.
-* Localização da escola através do mapa.
-* Links para redes sociais.
-* Botão para agendamento/contato.
-* Layout responsivo para celular, tablet e computador.
+* Apresentação da escola
+* Informações sobre os cursos oferecidos
+* Área de contato
+* Localização da escola através do mapa
+* Links para redes sociais
+* Botão para agendamento/contato
+* Layout responsivo para celular, tablet e computador
 
 ## 🛠️ Tecnologias
 
