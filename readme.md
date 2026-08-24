@@ -1,4 +1,4 @@
-# 🎓 Site Institucional da Escola
+# 🎓 Site Institucional da  Escola
 
 Site institucional desenvolvido para apresentar a escola, seus cursos e principais informações de contato em um único lugar.
 
