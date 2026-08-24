@@ -1,49 +1,51 @@
-  #  Casa da Arte - Site Institucional
+# 🎓 Site Institucional da Escola
 
-![Preview do Projeto](./assets/capa.jpg)
+Site institucional desenvolvido para apresentar a escola, seus cursos e principais informações de contato em um único lugar.
 
-## 📖 Sobre o Projeto
+## 🎯 Objetivo
 
-O **Casa da Arte** é um site institucional desenvolvido para uma escola de música e artes, com o objetivo de fortalecer sua presença digital e torná-la mais acessível na internet.
+Criar uma presença digital para a escola, facilitando o acesso às informações por alunos, responsáveis e pessoas interessadas nos cursos.
 
-O projeto foi criado para que novas pessoas possam conhecer a escola, visualizar informações importantes e entrar em contato de forma simples e rápida.
+## 🚀 Funcionalidades
+
+* Apresentação da escola
+* Informações sobre os cursos oferecidos
+* Área de contato
+* Localização da escola através do mapa
+* Links para redes sociais
+* Botão para agendamento/contato
+* Layout responsivo para celular, tablet e computador
+
+## 🛠️ Tecnologias
+
+* HTML5
+* CSS3
+* Google Fonts
+* Ionicons
+* Google Maps
+
+## 📱 Responsividade
+
+O site foi desenvolvido para se adaptar a diferentes tamanhos de tela, proporcionando uma boa experiência em:
+
+* 📱 Celulares
+* 📲 Tablets
+* 💻 Computadores
+
+## 📂 Estrutura
+
+```text
+site-escola/
+├── index.html
+├── style.css
+└── assets/
+    └── imagens/
+```
+
+## 📌 Sobre o projeto
+
+Este projeto faz parte dos estudos de **Análise e Desenvolvimento de Sistemas** e tem como objetivo aplicar conceitos de desenvolvimento web, organização de requisitos, HTML e CSS na criação de um site institucional.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## ✨ Funcionalidades
-
-- Página inicial moderna e responsiva
-- Apresentação da escola
-- Divulgação dos cursos
-- Botão para agendamento de aula experimental
-- Interface simples, acessível e intuitiva
-
----
-
-##  Objetivo
-
-Desenvolver uma plataforma online para aumentar a visibilidade da escola na internet, permitindo que mais pessoas conheçam os cursos e a proposta da Casa da Arte.
-
-
-
----
-
-
-## 👨‍💻 Desenvolvido por
-
-**Wilson Oliveira**  
-🚀 Desenvolvedor Web e Mobile
+**Desenvolvido por Wilson Oliveira**
